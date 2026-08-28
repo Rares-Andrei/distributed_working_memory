@@ -1,0 +1,41 @@
+SchaeferName,Glasser Region
+7Networks_LH_Cont_Cing_2,L_33pr_ROI
+7Networks_LH_Cont_OFC_1,"L_47m_ROI, L_11l_ROI"
+7Networks_LH_Cont_PFCl_1,"L_a47r_ROI, L_p47r_ROI"
+7Networks_LH_Cont_PFCl_2,
+7Networks_LH_Cont_PFCl_3,"L_IFSa_ROI, L_a9-46v_ROI"
+7Networks_LH_Cont_Par_1,L_PFm_ROI
+7Networks_LH_Cont_Temp_1,L_TE1p_ROI
+7Networks_LH_Default_PFC_1,"L_47s_ROI, L_AVI_ROI, L_AAIC_ROI"
+7Networks_LH_Default_PFC_10,L_8BM_ROI
+7Networks_LH_Default_PFC_11,L_8Av_ROI
+7Networks_LH_Default_PFC_12,"L_8Ad_ROI, L_i6-8_ROI, L_s6-8_ROI"
+7Networks_LH_Default_PFC_13,L_SFL_ROI
+7Networks_LH_Default_PFC_2,"L_p32_ROI, L_25_ROI, L_s32_ROI"
+7Networks_LH_Default_PFC_4,"L_10r_ROI, L_10d_ROI, L_a10p_ROI, L_10pp_ROI, L_p10p_ROI"
+7Networks_LH_Default_PFC_6,"L_a24_ROI, L_d32_ROI, L_p24_ROI"
+7Networks_LH_Default_PFC_7,"L_9m_ROI, L_9a_ROI"
+7Networks_LH_Default_PFC_8,L_a32pr_ROI
+7Networks_LH_Default_PFC_9,"L_8BL_ROI, L_9p_ROI"
+7Networks_LH_Default_Par_2,L_PGp_ROI
+7Networks_LH_Default_Par_3,
+7Networks_LH_Default_Par_4,"L_PGi_ROI, L_PGs_ROI"
+7Networks_LH_Default_Temp_1,L_STGa_ROI
+7Networks_LH_Default_Temp_2,L_TE1m_ROI
+7Networks_LH_Default_Temp_3,"L_A5_ROI, L_STSda_ROI, L_TE1a_ROI, L_STSva_ROI"
+7Networks_LH_DorsAttn_FEF_2,L_6ma_ROI
+7Networks_LH_DorsAttn_Post_2,L_PHT_ROI
+7Networks_LH_DorsAttn_Post_9,"L_7Pm_ROI, L_7Am_ROI"
+7Networks_LH_Limbic_OFC_2,"L_10v_ROI, L_OFC_ROI, L_pOFC_ROI"
+7Networks_LH_Limbic_TempPole_1,"L_EC_ROI, L_H_ROI, L_PeEc_ROI, L_TGv_ROI"
+7Networks_LH_Limbic_TempPole_2,"L_TE2a_ROI, L_TF_ROI"
+7Networks_LH_Limbic_TempPole_3,L_TGd_ROI
+7Networks_LH_Limbic_TempPole_4,"L_Pir_ROI, L_PI_ROI"
+7Networks_LH_SalVentAttn_FrOperIns_1,"L_52_ROI, L_PoI2_ROI, L_MI_ROI, L_PoI1_ROI"
+7Networks_LH_SalVentAttn_FrOperIns_2,"L_FOP4_ROI, L_FOP5_ROI"
+7Networks_LH_SalVentAttn_FrOperIns_3,"L_FOP3_ROI, L_FOP2_ROI"
+7Networks_LH_SalVentAttn_FrOperIns_4,L_6r_ROI
+7Networks_LH_SalVentAttn_Med_1,"L_p24pr_ROI, L_a24pr_ROI, L_p32pr_ROI"
+7Networks_LH_SalVentAttn_PFCl_1,"L_46_ROI, L_9-46d_ROI"
+7Networks_LH_SalVentAttn_ParOper_2,L_PFop_ROI
+7Networks_LH_SalVentAttn_ParOper_3,L_PF_ROI

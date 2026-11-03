@@ -39,7 +39,7 @@ for start in $(seq 0 $N_parallel $((total-1))); do
     # Extract the two parameters
     read G selectivity <<< "${queue[i]}"
     srun -N 1 -n 1 --exact python3 \
-         G_selectivity_parameter_sweep_cluster.py \
+         selectivity_G_parameter_sweep_cluster.py \
          "$G" "$selectivity" &
   done
 

@@ -41,7 +41,7 @@ def seed_for(G, alpha, run_idx, base=123456):
 
 # Prepare output directories
 run_folder_name = f"G{G_var:.3f}_alpha{alpha:.3f}"
-results_dir = os.path.join("../", "results", "g_alpha_flat_nmda_rev", run_folder_name)
+results_dir = os.path.join("../", "results", "g_alpha_flat_nmda", run_folder_name)
 data_dir = os.path.join(results_dir, "data")
 os.makedirs(data_dir, exist_ok=True)
 
